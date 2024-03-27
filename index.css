@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+body{
+    color: #fff;
+    background: linear-gradient(184deg,#3cc2f3,#8E2DE2);
+    height: 100vh;
+}
+.frontPage {
+    border: 2px groove rgb(244, 239, 239);
+    padding: 10px;
+    width: 500px;
+    height: auto;
+    border-radius: 7px;
+    margin-top:60px;
+}
+.header{
+    background-color: #fff;
+}
+.header img{
+    
+    width: 200px;
+    height: 200px;
+}
+.header h2{
+    color: rgb(2, 147, 204);
+}
+.header p{
+    font-weight:900;
+}
+.header input{
+    width: 350px;
+}
+.header button{
+    color: white;
+    background-color:rgb(2, 147, 204);
+    border: rgb(2, 147, 204);
+    width: 65px;
+    height: 25px;
+    border-radius: 5px;
+}
+.seconds{
+    color: grey;
+}
+.bottomhead h1{
+    color: rgb(2, 147, 204);
+    font-weight: 500;
+}
+.bottomhead button{
+    width: 200px;
+    height:35px;
+    background-color:rgb(219, 244, 251);
+    border: 1.5px solid rgb(9, 174, 239);
+    margin: 10px;
+    border-radius: 7px;
+}
+.bottomhead{
+    background-color: #fff;
+}
+.line{
+    border: 1px solid rgb(208, 207, 207);
+    background-color: #fff;
+}
+
+/***********************************HTML****************************/
+.html{
+    font-style: none;
+}
+.questions{
+    border: 2px groove rgb(231, 230, 230);
+    padding: 5px;
+    width: 400px;
+    height: auto;
+    border-radius: 7px;
+    margin: 50px;
+    
+}
+.questions h5{
+    margin: 10px;
+    padding: 10px;
+}
+.que1{
+    border: 1px solid rgb(253, 221, 221);
+    border-radius: 5px ;
+}
+.lang1{
+    width: 200px;
+    height: 30px;
+    border: solid 2px rgb(33, 183, 241);
+    border-radius: 20px;
+    color:rgb(95, 192, 252);
+    margin: 15px;
+    list-style: none;
+    padding: 2px;
+}
+.lang1:hover{
+    background-color: rgb(95, 192, 252);
+    color: white;
+    font-weight: 500;
+}
+.lang2{
+    width: 200px;
+    height: 30px;
+    border: solid 2px rgb(33, 183, 241);
+    border-radius: 20px;
+    color:rgb(95, 192, 252);
+    margin: 15px;
+    list-style: none;
+}
+.lang2:hover{
+    background-color: rgb(95, 192, 252);
+    color: white;
+    font-weight: 500;
+}
+.lang3{
+    width: 200px;
+    height: 30px;
+    border: solid 2px rgb(33, 183, 241);
+    border-radius: 20px;
+    color:rgb(95, 192, 252);
+    margin: 15px;
+    list-style: none;
+}
+.lang3:hover{
+    background-color: rgb(95, 192, 252);
+    color: white;
+    font-weight: 500;
+}
+.lang4{
+    width: 200px;
+    height: 30px;
+    border: solid 2px rgb(33, 183, 241);
+    border-radius: 20px;
+    color:rgb(95, 192, 252);
+    margin: 15px;
+    list-style: none;
+}
+.lang4:hover{
+    background-color: rgb(95, 192, 252);
+    color: white;
+    font-weight: 500;
+}
+#next{
+    width: 120px;
+    height: 30px;
+    color: white;
+    border-radius: 20px;
+    background-color:rgb(10, 71, 253);
+    margin: 15px;
+}
+#next:hover{
+    background-color: white;
+    color: rgb(6, 179, 247);
+}
+.ans{
+    margin-right: 10px;
+    margin-top: 5px;
+}
